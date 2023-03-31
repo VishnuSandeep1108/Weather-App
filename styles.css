@@ -1,0 +1,41 @@
+body{
+  background-image: url("images/bgimgt.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.enterc{
+  display: inline;
+  font-size: 150%;
+  font-family: 'Edu TAS Beginner', cursive;
+}
+
+.dataform{
+  text-align: center;
+  margin: 250px auto;
+}
+
+.heading{
+    font-size: 500%;
+    font-family: 'Rubik Maze', cursive;
+    font-weight: bold;
+}
+
+.citybox{
+  /* text-align: center; */
+  margin-top: 20px;
+  margin-left: 10px;
+  height: 40px;
+  width: 350px;
+  border-radius: 5px;
+  padding-left: 10px;
+  border-width: 0 3px 5px 0;
+}
+
+.submit{
+   display: block;
+  margin: 30px 710px;
+  /*height: 30px;
+  width: 100px; */
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+}
